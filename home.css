@@ -1,0 +1,445 @@
+body{
+    height:auto;
+    width: 100%;
+
+}
+#nav {
+    line-height:30px;
+    background-color:white;
+    height:auto;
+    width:100%;
+    float:left;
+    padding:0px;
+
+}
+
+#section {
+    width:100%;
+    float:left;
+    padding:10px;
+    height:auto;
+  
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;   
+   width:100%; 
+}
+#nav li a {
+text-decoration : none;
+font-family : "futura", sans-serif;
+font-size : 15px;
+display : block;
+color : #CCC;
+
+}
+#nav li a:hover { 
+    color:blue;
+}
+#nav #img_rate{
+    z-index: 9999;
+}
+#nav #img_rate:hover{
+    opacity: .5;
+
+}
+#navbar {
+width:100%;
+height:80px;
+background-color:#000;
+}
+
+#navbar ul {
+width:85%;
+margin:0 auto 0 auto;
+}
+
+#navbar ul li {
+float:right;
+color:#FFFFFF;
+padding:0 20px 0 20px;
+height:80px;
+list-style:none;
+display:block;
+line-height:80px;
+text-align:center;
+cursor:pointer;
+}
+
+#navbar li a {
+text-decoration : none;
+font-family : "futura", sans-serif;
+font-size : 15px;
+display : block;
+color : #CCC;
+
+}
+#navbar li a:hover { 
+    color:green;
+}
+
+
+#introduction_content {
+width : 1024px;
+height : auto;
+margin-top : 20px;
+margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+
+}
+#content_one {
+width : 250px;
+min-height : 150px;
+height : auto;
+float : left;  
+font-size: 25px; 
+}
+#content_one .hangout{
+    font-family :'Zapf Chancery', cursive;
+font-size : 16px;
+
+}
+#content_two {
+width : 484px;
+height : auto;
+float : left;
+margin-left : 20px;
+
+}
+#content_two table td{
+font-family : "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 10px;
+}
+#content_three {
+width : 250px;
+height : auto;
+float : left;
+margin-left : 20px;
+}
+#quotes {
+font-family : 'Playball', cursive;
+font-size : 15px;
+color : #9a9a9a;
+margin-top : 20px;
+font-weight : lighter;
+padding : 0 30px 20px 30px;
+}
+#kolkata_content {
+width : 480px;
+height : auto;
+margin-top : 20px;
+float : left;
+font-family : 'Playball', cursive;
+font-size : 15px;
+color : #9a9a9a;
+}
+#kolkata_heading1 {
+font-family :'Zapf Chancery', cursive;
+font-size : 16px;
+
+}
+#kolkata_heading_1 {
+font-family :'Zapf Chancery', cursive;
+font-size : 16px;
+
+}
+
+
+
+
+#kolkata_hotel {
+float : left;
+margin-top : 20px;
+}
+#kolkata_content {
+width : 480px;
+height : auto;
+margin-top : 20px;
+float : left;
+}
+#highlight {
+width : 1024px;
+height : 40px;
+margin-top : 40px;
+text-align : center;
+}
+#kolkata_images {
+width : 1024px;
+height : auto;
+margin-top : 20px;
+}
+#topaz {
+float : left;
+margin-left : 50px;
+}
+#topaz_heading {
+width : 300px;
+height : 40px;
+float : left;
+margin-left : 50px;
+}
+#kalash {
+float : left;
+margin-left : 20px;
+}
+#kalash_heading {
+width : 300px;
+height : 40px;
+float : left;
+margin-left : 5px;
+}
+#colony_premium {
+float : left;
+margin-left : 20px;
+}
+#colony_heading {
+width : 200px;
+height : 40px;
+float : left;
+margin-left : 20px;
+}
+#kolkata_images_headings {
+width : 1024px;
+height : 40px;
+float : left;
+margin-top : 20px;
+}
+#img {
+width : 520px;
+height : auto;
+float : left;
+margin-left : 250px;
+margin-top : 20px;
+}
+#img_one {
+float : left;
+}
+#img_two {
+float : left;
+margin-left : 20px;
+}
+#img_three {
+float : left;
+margin-left : 20px;
+}
+#highlight_text {
+width : 520px;
+height : auto;
+float : left;
+margin-left : 250px;
+margin-top : 20px;
+font-family : 'Playball', cursive;
+font-size : 15px;
+color : #9a9a9a;
+}
+#Respose_heading {
+width : 520px;
+height : 30px;
+margin-top : 20px;
+float : left;
+margin-left : 250px;
+font-size: 18px;
+}
+.city {
+width : 120px;
+height : 40px;
+margin-top : 10px;
+text-align : center;
+float : left;
+}
+.city button {
+background-color : #CCCCCC;
+border-radius : 4px;
+color : #FFF;
+width : 100px;
+font-family : Verdana, Geneva, sans-serif;
+font-size : 11px;
+background-clip : padding-box;
+background-color : #999999;
+border : none;
+}
+.places {
+width : 120px;
+height : 40px;
+float : left;
+text-align : center;
+margin-top : 10px;
+}
+.places button {
+background-color : #CCCCCC;
+border-radius : 4px;
+font-size : 11px;
+color : #FFF;
+border : none;
+padding : 3px 5px 5px 5px;
+font-family : Verdana, Geneva, sans-serif;
+background-clip : padding-box;
+background-color : #999999;
+}
+#standerd_heading {
+width : 240px;
+height : 40px;
+float : left;
+margin-top : 20px;
+}
+.all_content_font {
+font-family : 'Nunito', sans-serif;
+font-size : 12px;
+color : #7a7a7a;
+text-align : justify;
+line-height : 18px;
+}
+
+.form_panel
+{width:1024px;
+height:200px;
+background-image:url(images/form_bg.jpg);
+
+position: absolute;
+
+}
+#form_form {
+
+    float:left;
+    padding-top: 58px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;  
+    background-color: orange;
+    width: 1025px;
+    height: 200px;   
+    position: absolute;
+    background-color: #cd592c;
+    margin-left: 112px;
+    margin-top: 350px;
+    display: none;
+}
+
+.title_of_form
+{width:100%;
+height:40px;
+float:left;
+/*background-color:#999;*/}
+
+.title_of_form p
+{color:#666666;
+text-align:left;
+font-family:Arial, Helvetica, sans-serif;
+font-weight:500;
+font-size:20px;
+margin-top:10px;
+margin-left:15px;}
+
+.form_heading
+{color:#ce592d;
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+font-weight:bold;}
+
+.chk_rates
+{width:120px;
+height:30px;
+background-color:#cd592c;
+color:#FFF;
+float:right;
+margin-top:15px;
+margin-right:100px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;}
+
+.bk_nw
+{width:120px;
+height:30px;
+background-color:#cd592c;
+color:#FFF;
+margin-right:100px;
+margin-top:10px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+float:right;}
+
+
+.cancel_reservation
+{color:#ce592d;
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+text-decoration:underline;
+font-weight:bold;}
+
+#tool_hide {
+position : absolute;
+z-index : 999999999999999;
+width : 1035px;
+height : auto;
+margin-left:112px;
+margin-top:44px;
+background-color:#cd592c;
+display: none;
+
+
+}
+#header_1 {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav_1{
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section_1 {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer_1 {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+#navbar1 {
+width:100%;
+height:80px;
+
+margin-top: 500px;
+}
+
+#navbar1 ul {
+width:90%;
+margin:0 auto 0 auto;
+}
+
+#navbar1 ul li {
+float:left;
+color:black;
+padding:0 40px 0 40px;
+height:80px;
+list-style:none;
+display:block;
+line-height:80px;
+text-align:center;
+cursor:pointer;
+}
+
+#navbar1 li a {
+text-decoration : none;
+font-family : "futura", sans-serif;
+font-size : 15px;
+display : block;
+color : black;
+
+}
+#navbar1 li:hover { 
+    color:green;
+}

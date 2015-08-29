@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="home.css">
+<style>
+
+#section {
+    width:350px;
+    float:left;
+    padding:20px;   
+    background-color: orange;
+    width: 1030px;
+    height: 250px;     
+}
+
+</style>
+</head>
+
+<body>
+
+
+
+<div id="section">
+<div class="form_panel">
+    <div class="title_of_form"><p>BEST RATES GUARANTEED</p></div><hr/>
+    <div>
+     <!--<form name="form1" method="post" action="#" enctype="multipart/form-data" lang="en">-->
+        
+     <form name="form1" method="post" action="book.html" >
+
+        <span class="form_heading" style="margin-top:0px; float:left; margin-left:20px;">ARRIVAL</span> 
+        <input type="date" id="date_from" name="arrival_day" style="float:left; margin-top:20px; margin-left:-55px; width:140px; height:22px;">
+        
+         <span class="form_heading" style="float:left; margin-top:00px; margin-left:20px;">DEPARTURE</span> 
+        <input type="date" id="date_to" name="departure_day" style="float:left; margin-top:20px; width:140px; height:22px; margin-left:-75px;" onblur="Update_night()">
+    
+        
+        <label class="form_heading" style="float:left; margin-top:0px; margin-left:20px;">NIGHTS</label>
+        <input type="text" name="night" style="float:left; margin-top:20px; width:100px; height:22px; margin-left:-50px;" disabled="disabled">
+        
+       <label class="form_heading" style="float:left; margin-top:0px; margin-left:20px;">ADULTS</label>
+        <select name="adults" style="float:left; margin-top:20px; width:100px; height:29px; margin-left:-50px;">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+      
+   
+       
+       <label class="form_heading" style="float:left; margin-top:00px; margin-left:20px;">CODE</label>
+       <input type="text" name="code" style="float:left; margin-top:20px; width:80px; height:22px; margin-left:-35px;">
+
+        
+       <label class="form_heading" style="float:left; margin-top:0px; margin-left:20px;">ROOMS</label>
+       <select name="rooms" style="float:left; margin-top:20px; width:100px; height:29px; margin-left:-45px;">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+        
+        <label class="form_heading" style="float:left; margin-top:0px; margin-left:20px;">CHILDREN</label>
+         <select name="children" style="float:left; margin-top:20px; width:100px; height:29px; margin-left:-65px;">
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+        </select>       
+        
+<label class="form_heading" style="float:left; margin-top:5px; margin-left:20px;">GROUP RESULTS BY OFFER</label><br>
+<input type="checkbox" name="group_offer" value="OFFER" style="float:left; margin-top:20px; width:130px; height:22px; margin-left:-235px;" />
+
+        
+<label class="cancel_reservation" style="float:left; margin-top:50px; margin-left:-180px;"><a href="http://hhi-bangalore.reztrip.com/#property=105&mode=m&node=start" target="_blank">Amend/Cancel Existing Reservation</a></label>
+        
+
+            
+            <input type="submit" name="book_now" value="BOOK NOW >" class="bk_nw" onClick="Validation()"/>
+    </form>
+    </div>
+</div>
+
+</div>
+
+
+
+</body>
+</html>

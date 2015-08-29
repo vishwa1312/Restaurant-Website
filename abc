@@ -1,0 +1,93 @@
+insert into room_details values ("deluxe_1","deluxe",3500,1,1);
+insert into room_details values ("deluxe_2","deluxe",3500,1,1);
+insert into room_details values ("deluxe_3","deluxe",3500,1,1);
+insert into room_details values ("deluxe_4","deluxe",3500,1,1);
+insert into room_details values ("deluxe_5","deluxe",3500,1,1);
+insert into room_details values ("normal_1","normal",1200,1,1);
+insert into room_details values ("normal_2","normal",1200,1,1);
+insert into room_details values ("normal_3","normal",1200,1,1);
+insert into room_details values ("normal_4","normal",1200,1,1);
+insert into room_details values ("normal_5","normal",1200,1,1);
+insert into room_details values ("suite_6","suite",3200,1,2);
+insert into room_details values ("suite_7","suite",3200,1,2);
+insert into room_details values ("suite_8","suite",3200,1,2);
+insert into room_details values ("suite_9","suite",3200,1,2);
+insert into room_details values ("suite_10","suite",3200,1,2);
+insert into room_details values ("deluxe_6","deluxe",4000,1,2);
+insert into room_details values ("deluxe_7","deluxe",4000,1,2);
+insert into room_details values ("deluxe_8","deluxe",4000,1,2);
+insert into room_details values ("deluxe_9","deluxe",4000,1,2);
+insert into room_details values ("deluxe_10","deluxe",4000,1,2);
+insert into room_details values ("normal_6","normal",2000,1,2);
+insert into room_details values ("normal_7","normal",2000,1,2);
+insert into room_details values ("normal_8","normal",2000,1,2);
+insert into room_details values ("normal_9","normal",2000,1,2);
+insert into room_details values ("normal_10","normal",2000,1,2);
+insert into room_details values ("suite_11","suite",3500,2,1);
+insert into room_details values ("suite_12","suite",3500,2,1);
+insert into room_details values ("suite_13","suite",3500,2,1);
+insert into room_details values ("suite_14","suite",3500,2,1);
+insert into room_details values ("suite_15","suite",3500,2,1);
+insert into room_details values ("deluxe_11","deluxe",4300,2,1);
+insert into room_details values ("deluxe_12","deluxe",4300,2,1);
+insert into room_details values ("deluxe_13","deluxe",4300,2,1);
+insert into room_details values ("deluxe_14","deluxe",4300,2,1);
+insert into room_details values ("deluxe_15","deluxe",4300,2,1);
+insert into room_details values ("normal_11","normal",2200,2,1);
+insert into room_details values ("normal_12","normal",2200,2,1);
+insert into room_details values ("normal_13","normal",2200,2,1);
+insert into room_details values ("normal_14","normal",2200,2,1);
+insert into room_details values ("normal_15","normal",2200,2,1);
+insert into room_details values ("suite_16","suite",3800,3,1);
+insert into room_details values ("suite_17","suite",3800,3,1);
+insert into room_details values ("suite_18","suite",3800,3,1);
+insert into room_details values ("suite_19","suite",3800,3,1);
+insert into room_details values ("suite_20","suite",3800,3,1);
+insert into room_details values ("deluxe_16","deluxe",4600,3,1);
+insert into room_details values ("deluxe_17","deluxe",4600,3,1);
+insert into room_details values ("deluxe_18","deluxe",4600,3,1);
+insert into room_details values ("deluxe_19","deluxe",4600,3,1);
+insert into room_details values ("deluxe_20","deluxe",4600,3,1);
+insert into room_details values ("normal_16","normal",2500,3,1);
+insert into room_details values ("normal_17","normal",2500,3,1);
+insert into room_details values ("normal_18","normal",2500,3,1);
+insert into room_details values ("normal_19","normal",2500,3,1);
+insert into room_details values ("normal_20","normal",2500,3,1);
+
+
+
+insert into room_details values ("suite_21","suite",3800,2,2);
+insert into room_details values ("suite_22","suite",3800,2,2);
+insert into room_details values ("suite_23","suite",3800,2,2);
+insert into room_details values ("suite_24","suite",3800,2,2);
+insert into room_details values ("suite_25","suite",300,2,2);
+insert into room_details values ("deluxe_21","deluxe",4600,2,2);
+insert into room_details values ("deluxe_22","deluxe",4600,2,2);
+insert into room_details values ("deluxe_23","deluxe",4600,2,2);
+insert into room_details values ("deluxe_24","deluxe",4600,2,2);
+insert into room_details values ("deluxe_25","deluxe",400,2,2);
+insert into room_details values ("normal_21","normal",2500,2,2);
+insert into room_details values ("normal_22","normal",2500,2,2);
+insert into room_details values ("normal_23","normal",2500,2,2);
+insert into room_details values ("normal_24","normal",2500,2,2);
+insert into room_details values ("normal_25","normal",2500,2,2);
+insert into room_details values ("suite_26","suite",4200,3,2);
+insert into room_details values ("suite_27","suite",4200,3,2);
+insert into room_details values ("suite_28","suite",4200,3,2);
+insert into room_details values ("suite_29","suite",4200,3,2);
+insert into room_details values ("suite_30","suite",4200,3,2);
+insert into room_details values ("deluxe_26","deluxe",4900,3,2);
+insert into room_details values ("deluxe_27","deluxe",4900,3,2);
+insert into room_details values ("deluxe_28","deluxe",4900,3,2);
+insert into room_details values ("deluxe_29","deluxe",4900,3,2);
+insert into room_details values ("deluxe_20","deluxe",4900,3,2);
+insert into room_details values ("normal_26","normal",3200,3,2);
+insert into room_details values ("normal_27","normal",3200,3,2);
+insert into room_details values ("normal_28","normal",3200,3,2);
+insert into room_details values ("normal_29","normal",3200,3,2);
+insert into room_details values ("normal_30","normal",3200,3,2);
+
+
+
+
+
